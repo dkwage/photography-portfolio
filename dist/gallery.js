@@ -1,22 +1,44 @@
 // 이미지 데이터 배열
 const images = [
   {
-    href: 'https://images.unsplash.com/photo-1675789203977-70070dae0799?ixlib=rb-4.0.3&auto=format&fit=crop&w=870&q=80',
-    alt: 'a person standing in front of a rock formation',
+    href: '/dist/assets/photo/1.webp',
   },
   {
-    href: 'https://images.unsplash.com/photo-1674985594089-eab270e843c5?ixlib=rb-4.0.3&auto=format&fit=crop&w=1963&q=80',
-    alt: 'a cat laying on top of a sidewalk next to the ocean',
+    href: '/dist/assets/photo/2.webp',
   },
   {
-    href: 'https://images.unsplash.com/photo-1667093060577-02f07eb01585?ixlib=rb-4.0.3&auto=format&fit=crop&w=1750&q=80',
-    alt: 'a man standing on a beach next to the ocean',
+    href: '/dist/assets/photo/3.webp',
   },
   {
-    href: 'https://images.unsplash.com/photo-1676978647680-0e60a584c5fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=1740&q=80',
-    alt: 'a snow covered mountain with trees on the side',
+    href: '/dist/assets/photo/4.webp',
   },
-  // 추가 이미지 데이터...
+  {
+    href: '/dist/assets/photo/5.webp',
+  },
+  {
+    href: '/dist/assets/photo/6.webp',
+  },
+  {
+    href: '/dist/assets/photo/7.webp',
+  },
+  {
+    href: '/dist/assets/photo/8.webp',
+  },
+  {
+    href: '/dist/assets/photo/9.webp',
+  },
+  {
+    href: '/dist/assets/photo/10.webp',
+  },
+  {
+    href: '/dist/assets/photo/11.webp',
+  },
+  {
+    href: '/dist/assets/photo/12.webp',
+  },
+  {
+    href: '/dist/assets/photo/13.webp',
+  },
 ];
 
 // 갤러리 컨테이너 가져오기
