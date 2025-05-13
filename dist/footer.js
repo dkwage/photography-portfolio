@@ -1,4 +1,4 @@
-fetch('../../dist/footer.html')
+fetch('photography-portfolio/dist/footer.html')
   .then((response) => response.text())
   .then((data) => {
     document.querySelector('.footer').innerHTML = data;

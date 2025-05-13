@@ -1,43 +1,43 @@
 // 이미지 데이터 배열
 const images = [
   {
-    href: '/dist/assets/photo/1.webp',
+    href: './dist/assets/photo/1.webp',
   },
   {
-    href: '/dist/assets/photo/2.webp',
+    href: './dist/assets/photo/2.webp',
   },
   {
-    href: '/dist/assets/photo/3.webp',
+    href: './dist/assets/photo/3.webp',
   },
   {
-    href: '/dist/assets/photo/4.webp',
+    href: './dist/assets/photo/4.webp',
   },
   {
-    href: '/dist/assets/photo/5.webp',
+    href: './dist/assets/photo/5.webp',
   },
   {
-    href: '/dist/assets/photo/6.webp',
+    href: './dist/assets/photo/6.webp',
   },
   {
-    href: '/dist/assets/photo/7.webp',
+    href: './dist/assets/photo/7.webp',
   },
   {
-    href: '/dist/assets/photo/8.webp',
+    href: './dist/assets/photo/8.webp',
   },
   {
-    href: '/dist/assets/photo/9.webp',
+    href: './dist/assets/photo/9.webp',
   },
   {
-    href: '/dist/assets/photo/10.webp',
+    href: './dist/assets/photo/10.webp',
   },
   {
-    href: '/dist/assets/photo/11.webp',
+    href: './dist/assets/photo/11.webp',
   },
   {
-    href: '/dist/assets/photo/12.webp',
+    href: './dist/assets/photo/12.webp',
   },
   {
-    href: '/dist/assets/photo/13.webp',
+    href: './dist/assets/photo/13.webp',
   },
 ];
 
