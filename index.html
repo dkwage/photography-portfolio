@@ -40,24 +40,25 @@
     />
 
     <!-- End - Fancybox Scripts -->
-
-    <!-- <script src="https://cdn.tailwindcss.com"></script> -->
-    <!-- <script>
+    ,
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
       tailwind.config = {
-        content: ['./dist/*.{html,js}'],
+        content: ["./dist/*.{html,js}"],
         theme: {
           extend: {
             fontFamily: {
-              nothingyoucoulddo: ['Nothing You Could Do', 'cursive'],
-              signika: ['Signika', 'sans-serif'],
+              nothingyoucoulddo: ["Nothing You Could Do", "cursive"],
+              signika: ["Signika", "sans-serif"],
             },
           },
         },
         plugins: [],
       };
-    </script> -->
+    </script>
+    ,
   </head>
-<body
+  <body
     class="dark:bg-black bg-white h-screen text-black dark:text-white px-5 md:px-20 opacity-0 animate-fade-in transition duration-500"
   >
     <!-- Navbar -->
@@ -129,7 +130,6 @@
                   ></span>
                 </a>
               </li>
-              
             </ul>
           </div>
         </div>
@@ -148,8 +148,7 @@
     <!-- Script for the LightBox -->
     <script>
       Fancybox.bind('[data-fancybox="gallery"]', {
-        caption: function (fancybox, carousel, slide) {
-        },
+        caption: function (fancybox, carousel, slide) {},
         placeFocusBack: false,
       });
     </script>
